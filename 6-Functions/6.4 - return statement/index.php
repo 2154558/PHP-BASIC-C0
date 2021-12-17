@@ -6,8 +6,8 @@
 function geefTienProcent(){
     $koopPrijs = ('75');
     $korting = ('10');
-
-    echo $koopPrijs / $korting;
+    $kortingprijs = $koopPrijs / $korting;
+    echo $koopPrijs - $kortingprijs;
 }
 geefTienProcent();
 ?>
