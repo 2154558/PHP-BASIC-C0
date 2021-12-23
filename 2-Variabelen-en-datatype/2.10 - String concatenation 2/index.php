@@ -7,7 +7,7 @@ $item = " hout";
 $item .= " water";
 $item .= " vlees";
 
-echo $item
+echo "<ul> $item </ul>";
 ?>
 
 </body>
