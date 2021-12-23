@@ -3,7 +3,7 @@
 <body>
 
 <?php
-$myheroes=["superman","je moeder"] ;
+$myheroes=["superman","batman"] ;
 
 array_push ($myheroes,'spider-man');
 print_r($myheroes)
