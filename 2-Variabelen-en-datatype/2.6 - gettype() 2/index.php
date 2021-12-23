@@ -4,7 +4,7 @@
 
 <?php
 $string = "goedemorgen";
-$float = 10;
+$float = 10.3;
 $boolean = true;
 $null = null;
 
